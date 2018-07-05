@@ -1,4 +1,4 @@
-Copyright (c) 2018 Witalij Bukatkin
+Copyright (c) 2017 Witalij Bukatkin
 
 Simple RPN-Calculator on Objective-C
 
